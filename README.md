@@ -15,9 +15,9 @@
 
 - 📄 Know about my experiences [I love coding and learn new tek !](I love coding and learn new tek !)
 
-- ⚡ Fun fact **Im kitesurf instructor as well**
+- ⚡ Fun fact **Im also kitesurf instructor**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/vincent-gardet-6a8920235/</h3>
 <p align="left">
 </p>
 
