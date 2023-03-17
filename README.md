@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **React and Firebase**
 
-- 👨‍💻 All of my projects are available at [https://vixxxaz.github.io/ReactPTFDeplo/](https://vixxxaz.github.io/ReactPTFDeplo/)
+- 👨‍💻 All of my projects are available at [https://vixxxaz.github.io/ReactPTFDeplo/](https://vixxxaz.github.io/ReactPTFDeplo/) ou  [https://beamish-piroshki-5ea924.netlify.app](https://beamish-piroshki-5ea924.netlify.app)
 
-- 📝 I regularly write articles on [https://beamish-piroshki-5ea924.netlify.app](https://beamish-piroshki-5ea924.netlify.app)
+
 
 - 💬 Ask me about **React, node.js, JS**
 
