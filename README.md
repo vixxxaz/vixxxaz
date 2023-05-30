@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vixxxaz@protonmail.com**
 
-- 📄 Know about my experiences [I love coding and learn new tek !](I love coding and learn new tek !)
+- 📄 Know about my experiences [I love coding and learn new tek !]
 
 - ⚡ Fun fact **Im also kitesurf instructor**
 
